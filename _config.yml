@@ -21,24 +21,23 @@ menu:
   github:
     url: https://github.com/yscoder
     target: _blank
-  weibo:
-    url: http://www.weibo.com/ysweb
+  云盘:
+    url: https://alist-replit-1.661111.repl.co/
     target: _blank
   link:
     text: 测试
     url: /custom
 
 # 你的头像url
-avatar: /img/avatar.jpg
+avatar: 
 # avatar link
 avatar_link: /
 # 头像背景图
-brand: /img/brand.jpg
+brand: https://file.xhto.cn/alistskin/img/xinghuan.png
 # favicon
-favicon: /favicon.ico
-
+favicon: https://file.xhto.cn/alistskin/img/xinghuan.ico
 # email
-email: 634206017@qq.com
+email: xiaoxin104@outlook.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
